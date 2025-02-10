@@ -1,2 +1,2 @@
 # DEVCORE CONFERENCE 2024: 牆の調查：致 WAF 前的你
-## https://github.com/Chw41/TechTalk-Digest/tree/main/DEVCORE%20CONFERENCE%202024%3A%20%E7%89%86%E3%81%AE%E8%AA%BF%E6%9F%A5%EF%BC%9A%E8%87%B4%20WAF%20%E5%89%8D%E7%9A%84%E4%BD%A0
+## https://hackmd.io/@CHW/H1hKDE_E1l
