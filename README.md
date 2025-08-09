@@ -1,7 +1,7 @@
 # Technical-conference-takeaways
 
 ## 2025
-
+- Operations Security 紅隊不被抓到的秘密！
 
 ## 2024
 
